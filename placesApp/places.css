@@ -1,0 +1,60 @@
+
+    body{
+        
+        padding: 0;
+        margin: 0;
+    }
+
+#map, #header, #footer{
+height: 80px;
+    padding:0;
+margin: 0;
+
+}
+    #map{
+        margin:4px 1px 1px 1px;
+        height:550px;
+    }
+
+#map img {
+  max-width: none;
+}
+    #header{
+        background-image:url(http://www.rdcreativedesign.eu/images.rdcreativedesign.eu/portfolio-bg3.png);
+        font-color:white;
+        -webkit-box-shadow: 0 8px 6px -6px black;
+       -moz-box-shadow: 0 8px 6px -6px black;
+            box-shadow: 0 8px 6px -6px black;
+        
+
+    }
+
+   #header h1{
+    margin:0;
+    padding:20px;
+    color:white;
+}
+
+
+#textbox{
+    margin-top: 20px;
+    padding :5px;
+    font-weight:bold;
+    
+}
+
+
+#go{
+    margin-top: 20px;
+    border-radius:25px;
+    
+}
+
+#footer{
+
+    text-align: center;
+
+}
+
+
+
